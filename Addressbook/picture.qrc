@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>picture/add.png</file>
+        <file>picture/delete.png</file>
+        <file>picture/edit.png</file>
+        <file>picture/find.png</file>
+        <file>picture/save.png</file>
+        <file>picture/back.png</file>
+        <file>picture/ok.png</file>
+        <file>picture/back-2.png</file>
+        <file>picture/return.png</file>
+    </qresource>
+</RCC>
